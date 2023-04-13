@@ -1,6 +1,8 @@
 package com.openx.fakestore.carts;
 
 import com.google.gson.annotations.SerializedName;
+import com.openx.fakestore.FakeStore;
+import com.openx.fakestore.products.Product;
 
 import java.util.Date;
 import java.util.List;
@@ -35,6 +37,8 @@ public class Cart {
     public void setItems(List<CartItem> items) {
         this.items = items;
     }
+
+
 
     public class CartItem {
         private int productId;
