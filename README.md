@@ -6,6 +6,10 @@ API used: https://fakestoreapi.com/
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 
+- retrieve API data &  create correct data structures
+- 2 tasks: find shopping carts with max value & calculate geographical distance
+- tests using TestNG & REST-assured
+
 The project uses test methods with data entered manually as well as using DataProviders.
 
 ### Getting Started
