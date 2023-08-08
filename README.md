@@ -1,4 +1,4 @@
-#Software Engineer - Internship - Task
+#Software Engineer - Task
 
 # RestAssured - TestNG -Java- Automated testing
 A Maven project using RestAssured and TestNG frameworks.
